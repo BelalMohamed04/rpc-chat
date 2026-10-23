@@ -1,0 +1,11 @@
+# Compiled programs
+*.exe
+*.test
+server
+client
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
